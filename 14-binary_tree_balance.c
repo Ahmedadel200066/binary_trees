@@ -2,7 +2,7 @@
 /**
  * binary_tree_balance - measures the balance factor of a binary tree
  * @tree: is a poin to the root node
- * Return: 1 or 0
+ * Return: 0 or 1
  **/
 
 int binary_tree_balance(const binary_tree_t *tree)
